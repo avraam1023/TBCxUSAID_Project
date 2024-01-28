@@ -133,7 +133,7 @@ main {
 }
 
 .first-section {
-  min-width: 980px;
+  min-width: 100%;
   position: relative;
   grid-area: 1 / 1 / 2 / 2;
   justify-self: start;
